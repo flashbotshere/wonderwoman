@@ -1,7 +1,7 @@
 {
-      "name": "Nutsuki",
+      "name": "wonder woman",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/12a67bfae430322ceb2e8.jpg",
+      "logo": "https://telegra.ph/file/b5dcfbc05e4f481f58dc7.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "TheNatsukiBot"
       ],   
-   "repository": "https://github.com/Sadew451/Nutsuki",
+   "repository": "https://github.com/flashbotshere/wonderwoman",
    "addons": [
       {
          "options": {
